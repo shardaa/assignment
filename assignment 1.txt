@@ -1,0 +1,32 @@
+
+1. Explain the use of JavaScript ( or What you can do using a JavaScript)
+	javaScript can used to make any sort of application either web or mobile. we can create dynamic and intractive 
+	websites using js. it can be used for both forntend and backend.
+
+2. What is the difference between client-side and server-side?
+	client side means all the process and scripts will be executed o the system of clent(user).there will be 
+	no involvement of server for the process and in server side it is opposite of client side all the process happens 
+	on web server.
+
+3. What is Nodejs?
+	node js is runtime js environment that runs on v8 engine(created by google). it helps js to run outside the browser.
+
+4. Explain Scope in JavaScript.
+	scope defines accessibility or boundary of the veriable in which they can be used.
+	there are three socpe in js:-
+	1. Global Socpe
+	2. Block Scope.
+	3. Function Scope.
+	
+5. JavaScript is asynchronous or synchronous.
+	javascript is synchronous single threaded language.
+
+6. JavaScript is Single-threaded or Multi-threaded.
+	Single threaded language.
+
+7. Explain DOM in your own word.
+	Docment: - is a file where the code or the data is. (in this case HTML Document)
+ 	Object: - all the tags and elements. 
+	Model: - hierarchy of element and tags in which they are written
+	  
+
